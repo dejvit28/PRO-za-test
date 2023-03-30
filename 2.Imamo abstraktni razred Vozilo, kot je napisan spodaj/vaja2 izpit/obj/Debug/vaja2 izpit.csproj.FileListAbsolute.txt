@@ -1,0 +1,16 @@
+C:\Users\Dejvi\Desktop\za test\vaja2 izpit\vaja2 izpit\bin\Debug\vaja2 izpit.exe.config
+C:\Users\Dejvi\Desktop\za test\vaja2 izpit\vaja2 izpit\bin\Debug\vaja2 izpit.exe
+C:\Users\Dejvi\Desktop\za test\vaja2 izpit\vaja2 izpit\bin\Debug\vaja2 izpit.pdb
+C:\Users\Dejvi\Desktop\za test\vaja2 izpit\vaja2 izpit\obj\Debug\vaja2 izpit.csproj.AssemblyReference.cache
+C:\Users\Dejvi\Desktop\za test\vaja2 izpit\vaja2 izpit\obj\Debug\vaja2 izpit.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dejvi\Desktop\za test\vaja2 izpit\vaja2 izpit\obj\Debug\vaja2 izpit.csproj.CoreCompileInputs.cache
+C:\Users\Dejvi\Desktop\za test\vaja2 izpit\vaja2 izpit\obj\Debug\vaja2 izpit.exe
+C:\Users\Dejvi\Desktop\za test\vaja2 izpit\vaja2 izpit\obj\Debug\vaja2 izpit.pdb
+C:\Users\Dejvi\Desktop\za test\2.Imamo abstraktni razred Vozilo, kot je napisan spodaj\vaja2 izpit\bin\Debug\vaja2 izpit.exe.config
+C:\Users\Dejvi\Desktop\za test\2.Imamo abstraktni razred Vozilo, kot je napisan spodaj\vaja2 izpit\bin\Debug\vaja2 izpit.exe
+C:\Users\Dejvi\Desktop\za test\2.Imamo abstraktni razred Vozilo, kot je napisan spodaj\vaja2 izpit\bin\Debug\vaja2 izpit.pdb
+C:\Users\Dejvi\Desktop\za test\2.Imamo abstraktni razred Vozilo, kot je napisan spodaj\vaja2 izpit\obj\Debug\vaja2 izpit.csproj.AssemblyReference.cache
+C:\Users\Dejvi\Desktop\za test\2.Imamo abstraktni razred Vozilo, kot je napisan spodaj\vaja2 izpit\obj\Debug\vaja2 izpit.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dejvi\Desktop\za test\2.Imamo abstraktni razred Vozilo, kot je napisan spodaj\vaja2 izpit\obj\Debug\vaja2 izpit.csproj.CoreCompileInputs.cache
+C:\Users\Dejvi\Desktop\za test\2.Imamo abstraktni razred Vozilo, kot je napisan spodaj\vaja2 izpit\obj\Debug\vaja2 izpit.exe
+C:\Users\Dejvi\Desktop\za test\2.Imamo abstraktni razred Vozilo, kot je napisan spodaj\vaja2 izpit\obj\Debug\vaja2 izpit.pdb

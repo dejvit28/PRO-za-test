@@ -1,0 +1,11 @@
+C:\Users\Dejvi\Desktop\za test\izpit 30.3.2023\izpit 30.3.2023\bin\Debug\izpit 30.3.2023.exe.config
+C:\Users\Dejvi\Desktop\za test\izpit 30.3.2023\izpit 30.3.2023\bin\Debug\izpit 30.3.2023.exe
+C:\Users\Dejvi\Desktop\za test\izpit 30.3.2023\izpit 30.3.2023\bin\Debug\izpit 30.3.2023.pdb
+C:\Users\Dejvi\Desktop\za test\izpit 30.3.2023\izpit 30.3.2023\obj\Debug\izpit 30.3.2023.csproj.AssemblyReference.cache
+C:\Users\Dejvi\Desktop\za test\izpit 30.3.2023\izpit 30.3.2023\obj\Debug\izpit 30.3.2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dejvi\Desktop\za test\izpit 30.3.2023\izpit 30.3.2023\obj\Debug\izpit_30._3._2023.Form1.resources
+C:\Users\Dejvi\Desktop\za test\izpit 30.3.2023\izpit 30.3.2023\obj\Debug\izpit_30._3._2023.Properties.Resources.resources
+C:\Users\Dejvi\Desktop\za test\izpit 30.3.2023\izpit 30.3.2023\obj\Debug\izpit 30.3.2023.csproj.GenerateResource.cache
+C:\Users\Dejvi\Desktop\za test\izpit 30.3.2023\izpit 30.3.2023\obj\Debug\izpit 30.3.2023.csproj.CoreCompileInputs.cache
+C:\Users\Dejvi\Desktop\za test\izpit 30.3.2023\izpit 30.3.2023\obj\Debug\izpit 30.3.2023.exe
+C:\Users\Dejvi\Desktop\za test\izpit 30.3.2023\izpit 30.3.2023\obj\Debug\izpit 30.3.2023.pdb
